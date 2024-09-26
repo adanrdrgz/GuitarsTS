@@ -1,7 +1,7 @@
 import './App.css'
 import Header from './components/Header.tsx'
 import Guitar from './components/Guitar.tsx'
-import useCart from './hooks/useCart.tsx'
+import useCart from './hooks/useCart.ts'
 
 function App() {
 
